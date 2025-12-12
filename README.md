@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an Engineering Manager / Software Developer at Google. In my spare time, I've been enjoying vibe-coding some hobby projects. I've made a few of them (the semi-useful and hopefully not completely embarrasing ones) available here on GitHub. Feel free to browse and try things; most are also already hosted somewhere so you can just try them out directly. 
+
 <!--
 **matias/matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
